@@ -1,0 +1,2 @@
+first version 1.0-release date:-25th March,2023
+works for a single word in the file and prints the word in the console if the word present in the file is wrong.
