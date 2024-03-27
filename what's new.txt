@@ -1,4 +1,6 @@
-first version 1.0.0-release date:-25th March,2023
+first version 1.0.0-release date:-25th March,2024
 works for a single word in the file and prints the word in the console if the word present in the file is wrong. we also had to add to the dictionary feature.
-second version 1.1.0-release date:-27th march 2023
+second version 1.1.0-release date:-27th March,2024
 works for all words in a text file.
+third version 1.2.0-release date:-27th March,2024
+issue 2 fixed and some minor bugs fixed
