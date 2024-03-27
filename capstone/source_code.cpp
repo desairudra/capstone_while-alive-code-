@@ -28,6 +28,8 @@ int main()
       
      m: for(int i=0;s[k]!='.'&&s[k]!='?'&&s[k]!=','&&k<s.size()&&s[k]!='!';i++)
       {s1[i]=s[k];
+       if(s1[i]>'A'-1&&s1[i]<'Z'+1)
+       s1[i]=s1[i]+32;
        k++;
        f=i;
       }
